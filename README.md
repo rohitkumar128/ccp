@@ -10,3 +10,4 @@
 ![smaller3no](https://user-images.githubusercontent.com/83941130/120962631-bbc4ac00-c77d-11eb-9d55-7c0936f42466.png)
 ![smaller3output](https://user-images.githubusercontent.com/83941130/120963433-36da9200-c77f-11eb-818f-0c2336515af2.png)
 ![sumofdigits](https://user-images.githubusercontent.com/83941130/120965651-d188a000-c782-11eb-8677-60279622af73.png)
+![outputsumofdigits](https://user-images.githubusercontent.com/83941130/120965989-3643fa80-c783-11eb-886c-f8e75060b439.png)
