@@ -12,3 +12,4 @@
 ![sumofdigits](https://user-images.githubusercontent.com/83941130/120965651-d188a000-c782-11eb-8677-60279622af73.png)
 ![outputsumofdigits](https://user-images.githubusercontent.com/83941130/120965989-3643fa80-c783-11eb-886c-f8e75060b439.png)
 ![multipleofn](https://user-images.githubusercontent.com/83941130/120966526-fa5d6500-c783-11eb-96e5-ec1ad29a9a52.png)
+![outputmultipleofn](https://user-images.githubusercontent.com/83941130/120966760-4f00e000-c784-11eb-829e-057adb6e80bf.png)
