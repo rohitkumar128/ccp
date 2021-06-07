@@ -11,3 +11,4 @@
 ![smaller3output](https://user-images.githubusercontent.com/83941130/120963433-36da9200-c77f-11eb-818f-0c2336515af2.png)
 ![sumofdigits](https://user-images.githubusercontent.com/83941130/120965651-d188a000-c782-11eb-8677-60279622af73.png)
 ![outputsumofdigits](https://user-images.githubusercontent.com/83941130/120965989-3643fa80-c783-11eb-886c-f8e75060b439.png)
+![multipleofn](https://user-images.githubusercontent.com/83941130/120966526-fa5d6500-c783-11eb-96e5-ec1ad29a9a52.png)
