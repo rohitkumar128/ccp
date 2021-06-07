@@ -5,3 +5,4 @@
 ![output2](https://user-images.githubusercontent.com/83941130/117619030-63a18680-b18c-11eb-96c9-dd83fad8661c.png)
 
 ![quadratic roots](https://user-images.githubusercontent.com/83941130/120961684-e9105a80-c77b-11eb-8b7a-f93a103bd0af.png)
+![quadraticroots](https://user-images.githubusercontent.com/83941130/120962035-92575080-c77c-11eb-9ab6-e50824d1292d.png)
