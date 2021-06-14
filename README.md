@@ -15,3 +15,4 @@
 ![outputmultipleofn](https://user-images.githubusercontent.com/83941130/120966760-4f00e000-c784-11eb-829e-057adb6e80bf.png)
 ![vowelconstant](https://user-images.githubusercontent.com/83941130/121838029-862b4000-ccf4-11eb-97d0-ca3f4d6aec62.png)
 ![vowelconst2](https://user-images.githubusercontent.com/83941130/121838197-ed48f480-ccf4-11eb-8fcc-d98fec3bd7ec.png)
+![vowelconst3](https://user-images.githubusercontent.com/83941130/121839753-672ead00-ccf8-11eb-8df3-dacbbbe8f754.png)
