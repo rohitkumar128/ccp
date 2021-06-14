@@ -13,3 +13,4 @@
 ![outputsumofdigits](https://user-images.githubusercontent.com/83941130/120965989-3643fa80-c783-11eb-886c-f8e75060b439.png)
 ![multipleofn](https://user-images.githubusercontent.com/83941130/120966526-fa5d6500-c783-11eb-96e5-ec1ad29a9a52.png)
 ![outputmultipleofn](https://user-images.githubusercontent.com/83941130/120966760-4f00e000-c784-11eb-829e-057adb6e80bf.png)
+![vowelconstant](https://user-images.githubusercontent.com/83941130/121838029-862b4000-ccf4-11eb-97d0-ca3f4d6aec62.png)
