@@ -24,3 +24,4 @@
 ![interchangearray](https://user-images.githubusercontent.com/83941130/122711308-95c00100-d27f-11eb-8446-2e7c636d266a.png)
 ![interchangearray2](https://user-images.githubusercontent.com/83941130/122711518-e899b880-d27f-11eb-8a2a-5ad4cdd7c3e4.png)
 ![outputinterchangearray](https://user-images.githubusercontent.com/83941130/122711803-6d84d200-d280-11eb-8505-6c40f9eb36d1.png)
+![insertarray](https://user-images.githubusercontent.com/83941130/122712252-4084ef00-d281-11eb-964c-61397e5610e1.png)
