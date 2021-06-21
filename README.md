@@ -31,3 +31,4 @@
 ![ascendingarray2](https://user-images.githubusercontent.com/83941130/122712793-2e578080-d282-11eb-960d-23fad245c0ca.png)
 ![outputascendingarray](https://user-images.githubusercontent.com/83941130/122712896-66f75a00-d282-11eb-89d5-da4b174c3838.png)
 ![deletearray](https://user-images.githubusercontent.com/83941130/122713048-b3429a00-d282-11eb-91ce-313afd2c091a.png)
+![outputdelarray](https://user-images.githubusercontent.com/83941130/122713164-e2f1a200-d282-11eb-8945-0a53685057a5.png)
