@@ -20,3 +20,4 @@
 ![evennos](https://user-images.githubusercontent.com/83941130/121841703-829bb700-ccfc-11eb-9880-c4b3d7c8183d.png)
 ![outputevenno](https://user-images.githubusercontent.com/83941130/121841769-a3640c80-ccfc-11eb-8121-c4c29fa00578.png)
 ![squareoddno](https://user-images.githubusercontent.com/83941130/122710790-9c9a4400-d27e-11eb-9844-1b2c51ea852d.png)
+![outputsqrodd](https://user-images.githubusercontent.com/83941130/122710880-d408f080-d27e-11eb-8f5a-586af0478b73.png)
