@@ -29,3 +29,4 @@
 ![outputinsertarray](https://user-images.githubusercontent.com/83941130/122712459-96f22d80-d281-11eb-8dc9-58d961c71501.png)
 ![ascendingarray](https://user-images.githubusercontent.com/83941130/122712583-bdb06400-d281-11eb-9cb9-b3adf4a860e7.png)
 ![ascendingarray2](https://user-images.githubusercontent.com/83941130/122712793-2e578080-d282-11eb-960d-23fad245c0ca.png)
+![outputascendingarray](https://user-images.githubusercontent.com/83941130/122712896-66f75a00-d282-11eb-89d5-da4b174c3838.png)
