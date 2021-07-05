@@ -36,3 +36,4 @@
 ![outputmataddition](https://user-images.githubusercontent.com/83941130/123582500-8bf84980-d7fb-11eb-8b62-ae5223b3e206.png)
 ![transposematric](https://user-images.githubusercontent.com/83941130/123582618-bfd36f00-d7fb-11eb-8c13-85f8277d872a.png)
 ![outputtrnspsmatric](https://user-images.githubusercontent.com/83941130/123582971-6c155580-d7fc-11eb-8dd7-225fd9457fdf.png)
+![copystring](https://user-images.githubusercontent.com/83941130/124416853-85c31980-dd75-11eb-89e6-a93fed023c55.png)
